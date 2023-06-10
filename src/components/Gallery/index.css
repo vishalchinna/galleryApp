@@ -1,0 +1,15 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.pic {
+  height: 400px;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+}
